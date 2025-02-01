@@ -1,0 +1,47 @@
+# Table of contents
+
+* [投资导航](README.md)
+
+## 新手须知
+
+* [币圈入门](xin-shou-xu-zhi/bi-quan-ru-men/README.md)
+  * [第一步：科学上网](xin-shou-xu-zhi/bi-quan-ru-men/di-yi-bu-ke-xue-shang-wang.md)
+  * [第二步：交易所注册](xin-shou-xu-zhi/bi-quan-ru-men/di-er-bu-jiao-yi-suo-zhu-ce.md)
+  * [第三步：买币](xin-shou-xu-zhi/bi-quan-ru-men/di-san-bu-mai-bi.md)
+  * [第四步：基本概念/黑话](xin-shou-xu-zhi/bi-quan-ru-men/di-si-bu-ji-ben-gai-nian-hei-hua.md)
+  * [第五步：钱包安全](xin-shou-xu-zhi/bi-quan-ru-men/di-wu-bu-qian-bao-an-quan.md)
+  * [第六步：常用社交媒体](xin-shou-xu-zhi/bi-quan-ru-men/di-liu-bu-chang-yong-she-jiao-mei-ti.md)
+
+***
+
+* [Meme入门](meme-ru-men/README.md)
+  * [第1步：基本工具](meme-ru-men/di-1-bu-ji-ben-gong-ju.md)
+  * [第2步：GMGN保姆级使用攻略](meme-ru-men/di-2-bu-gmgn-bao-mu-ji-shi-yong-gong-le.md)
+  * [第3步：聪明钱监控](meme-ru-men/di-3-bu-cong-ming-qian-jian-kong.md)
+  * [第4步：设置聪明钱电报通知](meme-ru-men/di-4-bu-she-zhi-cong-ming-qian-dian-bao-tong-zhi.md)
+  * [第5步：SOL全方位盯盘手册](meme-ru-men/di-5-bu-sol-quan-fang-wei-ding-pan-shou-ce.md)
+  * [第6步：Meme深入理解](meme-ru-men/di-6-bu-meme-shen-ru-li-jie.md)
+  * [第7步：补充一点基本概念](meme-ru-men/di-7-bu-bu-chong-yi-dian-ji-ben-gai-nian.md)
+* [知识库](zhi-shi-ku/README.md)
+  * [1.比特币白皮书](zhi-shi-ku/1.-bi-te-bi-bai-pi-shu.md)
+  * [2.《屯比特币》](zhi-shi-ku/2.-tun-bi-te-bi/README.md)
+    * [1.序章 知之非难，行之不易](zhi-shi-ku/2.-tun-bi-te-bi/1.-xu-zhang-zhi-zhi-fei-nan-xing-zhi-bu-yi.md)
+    * [2.比特币与理想主义](zhi-shi-ku/2.-tun-bi-te-bi/2.-bi-te-bi-yu-li-xiang-zhu-yi.md)
+    * [3.下车太早只因愿景太小](zhi-shi-ku/2.-tun-bi-te-bi/3.-xia-che-tai-zao-zhi-yin-yuan-jing-tai-xiao.md)
+    * [4.你离财富自由还有多远？](zhi-shi-ku/2.-tun-bi-te-bi/4.-ni-li-cai-fu-zi-you-hai-you-duo-yuan.md)
+    * [5.冲动、孤独、无聊与矛盾](zhi-shi-ku/2.-tun-bi-te-bi/5.-chong-dong-gu-du-wu-liao-yu-mao-dun.md)
+    * [6.手握私钥的快感](zhi-shi-ku/2.-tun-bi-te-bi/6.-shou-wo-si-yao-de-kuai-gan.md)
+    * [7.如何管理私钥？](zhi-shi-ku/2.-tun-bi-te-bi/7.-ru-he-guan-li-si-yao.md)
+    * [8.基本价格模型](zhi-shi-ku/2.-tun-bi-te-bi/8.-ji-ben-jia-ge-mo-xing.md)
+    * [9.寻找合适的购买时机](zhi-shi-ku/2.-tun-bi-te-bi/9.-xun-zhao-he-shi-de-gou-mai-shi-ji.md)
+    * [10.唯有比特币](zhi-shi-ku/2.-tun-bi-te-bi/10.-wei-you-bi-te-bi.md)
+    * [11.不要跟着感觉走](zhi-shi-ku/2.-tun-bi-te-bi/11.-bu-yao-gen-zhe-gan-jue-zou.md)
+    * [12.币本位思维](zhi-shi-ku/2.-tun-bi-te-bi/12.-bi-ben-wei-si-wei.md)
+    * [13.心中无币](zhi-shi-ku/2.-tun-bi-te-bi/13.-xin-zhong-wu-bi.md)
+    * [14.打造强节点](zhi-shi-ku/2.-tun-bi-te-bi/14.-da-zao-qiang-jie-dian.md)
+    * [15.运行全节点](zhi-shi-ku/2.-tun-bi-te-bi/15.-yun-xing-quan-jie-dian.md)
+    * [16.ahr999 指数](zhi-shi-ku/2.-tun-bi-te-bi/16.ahr999-zhi-shu.md)
+    * [17.终章 不忘初心](zhi-shi-ku/2.-tun-bi-te-bi/17.-zhong-zhang-bu-wang-chu-xin.md)
+    * [故事一 四年一个轮回，不光有世界杯，还有比特币](zhi-shi-ku/2.-tun-bi-te-bi/gu-shi-yi-si-nian-yi-ge-lun-hui-bu-guang-you-shi-jie-bei-hai-you-bi-te-bi.md)
+    * [故事二 上一轮熊市](zhi-shi-ku/2.-tun-bi-te-bi/gu-shi-er-shang-yi-lun-xiong-shi.md)
+    * [故事三 牛市起点的故事](zhi-shi-ku/2.-tun-bi-te-bi/gu-shi-san-niu-shi-qi-dian-de-gu-shi.md)
